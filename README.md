@@ -1,11 +1,11 @@
 # Vice Chess Engine
 This is a fork of the repo for the Vice chess engine programming series on YouTube.
 
-This codebase has added all the new code from all the stale branches Chapter 97 thru Chapter 106
+This codebase contains all new code from the stale branches Chapter 97 thru Chapter 106
 see: https://github.com/bluefeversoft/vice/branches/stale
 which includes: global hash table, threading, and SMP (symmetric multiprocessing) via shared hash table (Lazy SMP).
 
-I've added support for a NNUE (halfkp_256x2-32-32) evaluation in the form of an embedded binary file (nn.bin)
+Support for a NNUE (halfkp_256x2-32-32) evaluation has been added in the form of an embedded binary file (nn.bin)
 via Daniel Shawul's nnue-probe library: https://github.com/dshawul/nnue-probe,
 and Dale Weiler's INCBIN utility: https://github.com/graphitemaster/incbin.
 

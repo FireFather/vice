@@ -6,7 +6,8 @@ see: https://github.com/bluefeversoft/vice/branches/stale
 which includes: global hash table, threading, and SMP (symmetric multiprocessing) via shared hash table (Lazy SMP).
 
 I've added support for a NNUE (halfkp_256x2-32-32) evaluation in the form of an embedded binary file (nn.bin)
-via Daniel Shawul's https://github.com/dshawul/nnue-probe, and Dale Weiler's INCBIN utility.
+via Daniel Shawul's nnue-probe library: https://github.com/dshawul/nnue-probe,
+and Dale Weiler's INCBIN utility: https://github.com/graphitemaster/incbin.
 
 The executable has been produced using MYSYS MINGW64...see Makefile (type 'make' to compile.
 

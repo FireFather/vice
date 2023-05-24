@@ -14,6 +14,7 @@ The executable has been produced using MYSYS MINGW64...see Makefile (type 'make'
 For variety, any halfkp_256x2-32-32 NNUE can be used...see:
 
 https://github.com/FireFather/halfkp_256x2-32-32-nets or
+
 https://tests.stockfishchess.org/nns for a different net.
 
 Halfkp SF nets start on page 72-73 (approx.) with dates of 21-05-02 22:26:43 or earlier.

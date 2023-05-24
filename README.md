@@ -1,7 +1,23 @@
 # Vice Chess Engine
-This is the repo for the Vice chess engine series on YouTube.
+This is a fork of the repo for the Vice chess engine programming series on YouTube.
 
-You can find the playlist here: [Link to playlist](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
+This codebase has added all the new code from all the stale branches Chapter 97 thru Chapter 106
+see: https://github.com/bluefeversoft/vice/branches/stale
+which includes: global hash table, threading, and SMP (symmetric multiprocessing) via shared hash table (Lazy SMP).
+
+Support for a NNUE (halfkp_256x2-32-32) evaluation has been added, in the form of an embedded binary file (nn.bin)
+via https://github.com/dshawul/nnue-probe.
+
+The executable has been produced using MYSYS MINGW64...see Makefile (type 'make' to compile.
+
+Any halfkp_256x2-32-32 NNUE can be used...see:
+https://tests.stockfishchess.org/nns to use a different net.
+starting on page ~72
+21-05-02 22:26:43 nn-fc32305e6c19.nnue Fisherman
+and earlier
+nnue file size must = 20,530 KB (halfkp_256x2-32-32)
+
+You can find the youtube playlist here: [Link to playlist](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
 
 **From part 97 onwards, this repo has a branch with the code for that video. For exmaple, part 97 code is on branch Chapter 97.**
 

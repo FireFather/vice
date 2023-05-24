@@ -5,8 +5,8 @@ This codebase has added all the new code from all the stale branches Chapter 97 
 see: https://github.com/bluefeversoft/vice/branches/stale
 which includes: global hash table, threading, and SMP (symmetric multiprocessing) via shared hash table (Lazy SMP).
 
-Support for a NNUE (halfkp_256x2-32-32) evaluation has been added, in the form of an embedded binary file (nn.bin)
-via https://github.com/dshawul/nnue-probe.
+I've added support for a NNUE (halfkp_256x2-32-32) evaluation in the form of an embedded binary file (nn.bin)
+via Daniel Shawul's https://github.com/dshawul/nnue-probe, and Dale Weiler's INCBIN utility.
 
 The executable has been produced using MYSYS MINGW64...see Makefile (type 'make' to compile.
 

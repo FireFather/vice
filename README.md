@@ -11,12 +11,14 @@ and Dale Weiler's INCBIN utility: https://github.com/graphitemaster/incbin.
 
 The executable has been produced using MYSYS MINGW64...see Makefile (type 'make' to compile.
 
-Any halfkp_256x2-32-32 NNUE can be used...see:
-https://tests.stockfishchess.org/nns to use a different net.
+For variety, any halfkp_256x2-32-32 NNUE can be used...see:
 
-Compatible nets start on page 72-73 (approx.) with dates of 21-05-02 22:26:43 or earlier.
+https://github.com/FireFather/halfkp_256x2-32-32-nets or
+https://tests.stockfishchess.org/nns for a different net.
 
-The nnue file size must = 20,530 KB (halfkp_256x2-32-32)
+Halfkp SF nets start on page 72-73 (approx.) with dates of 21-05-02 22:26:43 or earlier.
+
+Keep in mind: the nnue file size must = 20,530 KB (halfkp_256x2-32-32).
 
 
 ## 

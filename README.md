@@ -13,11 +13,13 @@ The executable has been produced using MYSYS MINGW64...see Makefile (type 'make'
 
 Any halfkp_256x2-32-32 NNUE can be used...see:
 https://tests.stockfishchess.org/nns to use a different net.
-starting on page ~72
-21-05-02 22:26:43 nn-fc32305e6c19.nnue Fisherman
-and earlier
-nnue file size must = 20,530 KB (halfkp_256x2-32-32)
 
+Compatible nets start on page 72-73 (approx.) with dates of 21-05-02 22:26:43 or earlier.
+
+The nnue file size must = 20,530 KB (halfkp_256x2-32-32)
+
+
+## 
 You can find the youtube playlist here: [Link to playlist](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
 
 **From part 97 onwards, this repo has a branch with the code for that video. For exmaple, part 97 code is on branch Chapter 97.**

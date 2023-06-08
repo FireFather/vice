@@ -1,4 +1,11 @@
 # Vice Chess Engine
+
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/master/logos/vice_0.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/master/logos/vice_1.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/master/logos/vice_2.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/master/logos/vice_3.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/master/logos/vice_4.bmp)
+
 This is a fork of the repo for the Vice chess engine programming series on YouTube.
 
 This codebase contains all new code from the stale branches Chapter 97 thru Chapter 106

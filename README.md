@@ -1,10 +1,10 @@
 # Vice Chess Engine
 
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/main/logos/vice_0.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/main/logos/vice_1.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/main/logos/vice_2.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/main/logos/vice_3.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/main/logos/vice_4.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/tree/main/logos/vice_0.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/tree/main/logos/vice_1.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/tree/main/logos/vice_2.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/tree/main/logos/vice_3.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nue/tree/main/logos/vice_4.bmp)
 
 This is a fork of the repo for the Vice chess engine programming series on YouTube.
 

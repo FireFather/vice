@@ -2,9 +2,6 @@
 
 ![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-0.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-1.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-2.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-3.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-4.bmp)
 
 This is a fork of the repo for the Vice chess engine programming series on YouTube.
 

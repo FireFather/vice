@@ -3,7 +3,7 @@
 ![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-0.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/vice-smp-nnue/main/logos/vice-1.bmp)
 
-This is a fork of the repo for the Vice chess engine programming series on YouTube.
+**This is a fork of the repo for the Vice chess engine programming series on YouTube**
 
 This codebase contains all new code from the stale branches Chapter 97 thru Chapter 106
 see: https://github.com/bluefeversoft/vice/branches/stale
